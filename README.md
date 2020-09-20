@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Kunal
-#### I am an Android Developer
+#### App Developer
 ![App Developer](https://github.com/Kunal-Manchanda/Kunal-Manchanda/blob/master/banner.png)
 
 I am a 3rd Year student pursuing B.Tech from Dr. Abdul Kalam Technical University, Lucknow. I love designing apps and making projects all the time
