@@ -7,7 +7,7 @@ I am a 3rd Year student pursuing B.Tech from Dr. Abdul Kalam Technical Universit
 Skills: Android/Java/Kotlin/Flutter/Dart
 
 - 🔭 I’m currently working on KCC College Portal App 
-- 🌱 I’m currently learning Flutter  
+- 🌱 I’m currently learning Spring Boot  
 - 👯 I’m looking to collaborate on Android Projects 
 - 💬 Ask me about Anything 
 - 📫 How to reach me: kunalmanchanda69@gmail.com 
